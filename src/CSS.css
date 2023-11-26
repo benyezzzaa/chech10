@@ -1,0 +1,37 @@
+.css a{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 13px 16px;
+    text-decoration: none;
+    background-color: #F0F0F0;
+    background-color:#b5bebc;
+}
+.css{
+    background-color: #b5bebc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.css img {
+   
+    width: 100px;
+    
+
+}
+.res{
+   display: flex;
+   justify-content: center;
+   padding: 50px 0;
+   gap: 10px;
+}
+.res img{
+    height: 300px;
+}
